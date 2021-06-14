@@ -125,6 +125,7 @@ export default {
       a:not(.logo) {
         position: relative;
         padding: 0.75rem;
+        font-weight: bold;
         color: var(--light);
         border-radius: var(--border-radius);
         &::after {
@@ -151,16 +152,19 @@ export default {
     }
     select {
       padding: 0.75rem;
+      font-weight: bold;
       border: 2px solid var(--light);
       background-color: transparent;
       color: var(--light);
       margin-left: auto;
       &:lang(ar) {
+        font-weight: bold;
         margin-left: 0;
         margin-right: auto;
       }
       option {
         background-color: var(--dark);
+        font-weight: bold;
       }
     }
   }
