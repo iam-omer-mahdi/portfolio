@@ -13,9 +13,9 @@
         </a>
       </div>
       <div class="social">
-        <a target="_blank" href="https://www.facebook.com/OmerMahdiDev">Facebook</a>
-        <a target="_blank" href="https://twitter.com/Omer__Mahdi">Twitter</a>
-        <a target="_blank" href="https://github.com/iam-omer-mahdi">Github</a>
+        <a rel="noreferrer" target="_blank" href="https://www.facebook.com/OmerMahdiDev">Facebook</a>
+        <a rel="noreferrer" target="_blank" href="https://twitter.com/Omer__Mahdi">Twitter</a>
+        <a rel="noreferrer" target="_blank" href="https://github.com/iam-omer-mahdi">Github</a>
       </div>
       <!-- Shapes -->
       <svg
